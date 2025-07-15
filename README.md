@@ -5,15 +5,20 @@
 
 <!-- Main Hero Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" alt="AI Brain Animation"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="650" alt="AI Cyber Brain"/>
+  <h1><strong>⚡ Welcome to the Future of Code</strong></h1>
+  <p><em><span style="color:#f900bf">Neon Logic. Quantum Speed. Pure Insanity.</span></em></p>
 </div>
+
+
+
 
 ---
 
 ## 🚀 About Me
 
 <p align="center">
- <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="220" alt="AI Visualization"/>
+ <img src="https://i.imgur.com/E9EHO5l.gif" width="220" alt="AI Visualization"/>
 </p>
 
 - **🎯 Passionate about Backend and Android Development **  
